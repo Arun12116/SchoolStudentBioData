@@ -1,0 +1,14 @@
+.inpute-serach{
+display: flex;
+gap: 1rem;
+}
+.inpute{
+
+    background-color: transparent;
+    border: 1px solid gray;
+    border-radius: 12px;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+}

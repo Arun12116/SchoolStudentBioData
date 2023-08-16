@@ -1,0 +1,47 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.table_wrapper {
+    min-height: 40vh;
+
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button {
+    background-color: transparent;
+    border: 1px solid gray;
+    border-radius: 12px;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.save_btn button {
+    margin: 2px;
+    background-color: transparent;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 100;
+}
