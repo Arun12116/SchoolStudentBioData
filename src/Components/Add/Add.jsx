@@ -83,7 +83,7 @@ const Add = () => {
                                 <th>Name</th>
                                 <th>Date of birth</th>
                                 <th>Adhar Number</th>
-                                <th>Adhar Number</th>
+                                <th>Mobile Number</th>
                                 <th>Age</th>
                                 <th>Action</th>
                             </tr>
